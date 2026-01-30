@@ -1,0 +1,1103 @@
+[
+  {
+    "id": 1,
+    "question": "You are reviewing the notes of a 32-year-old woman in the antenatal clinic. She is 10 weeks pregnant based on her last period date and this is her third pregnancy. Her sons, aged 4 and 2 years, respectively, are fit and healthy. You are looking for risk factors to offer her screening for gestational diabetes. Which of the following conditions will you NOT offer her such screening:",
+    "choices": [
+      "Body mass index above 30 kg/m 2",
+      "Family history of diabetes",
+      "Previous macrosomic baby weighing 4.5 kg or above",
+      "Previous type 2 diabetes"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 2,
+    "question": "Commercial flights of more than 4 h duration are known to be associated with a small increase in the relative risk of:",
+    "choices": [
+      "Abruptio placentae",
+      "Antepartum depression",
+      "Deep vein thrombosis",
+      "Prelabour rupture of membranes"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 3,
+    "question": "Which antibiotics should be given to prevent early onset neonatal GBS disease to women who have accepted intrapartum antibiotic prophylaxis (IAP) and are allergic to benzylpenicillin?",
+    "choices": [
+      "Ampicillin",
+      "Clindamycin",
+      "Erythromycin",
+      "Trimethoprim/sulfamethoxazole"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 4,
+    "question": "A 28-year-old woman is 22 weeks pregnant. She has long-standing type 1 diabetes mellitus. Her 20-week fetal anatomy ultrasound showed no structural fetal abnormalities. However, she is concerned about how her diabetes may cause congenital fetal anomalies in her unborn child. Of the options listed below, which SINGLE action addresses her anxiety?",
+    "choices": [
+      "Quadruple maternal biochemical screening test (HCG, inhibin-A, estriol, AFP) at 20 weeks.",
+      "Fetal cardiac echocardiography at 24 weeks.",
+      "Obstetric ultrasound scan for growth and umbilical artery Doppler at 28, 32 and 36 weeks.",
+      "Offer reassurance as normal fetal anatomy survey at 20 weeks."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 5,
+    "question": "All pregnant women are advised to take folic acid supplements (0.4 mg, once daily) pre-pregnancy and antenatally. Nonetheless, which of the following groups of women is a dietary supplementation using a higher dose of folic acid (5 mg once daily) recommended?",
+    "choices": [
+      "BMI < 30",
+      "History of spina bifida in partner’s family",
+      "Impaired glucose tolerance",
+      "Previous pre-eclampsia"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 6,
+    "question": "A 24-year-old woman is 22 weeks pregnant in her second pregnancy. She has had one previous caesarean delivery. Her routine 20-week obstetric ultrasound revealed a low-lying anterior placenta, partially covering the cervical os. Which SINGLE action is most appropriate?",
+    "choices": [
+      "Organise elective caesarean section for 39 weeks",
+      "Organise MRI pelvis at 32 weeks to check position of placenta.",
+      "Re-assess at 38 weeks and allow vaginal delivery to occur if fetal head is clinically engaged and there has been no antenatal bleeding.",
+      "Repeat ultrasound at 32 weeks to check position of placenta."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 7,
+    "question": "Drugs are prescribed in pregnancy upon the assumption that their positive effect on health outweighs the probability and severity of any harm to mother and fetus. On this basis, which of the following medications is the most likely to be contraindicated for antenatal use in pregnancy?",
+    "choices": [
+      "Indomethacin",
+      "Labetalol",
+      "Low-dose aspirin",
+      "Low molecular weight heparin"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 8,
+    "question": "A 20-year-old woman is 36 weeks pregnant in her first pregnancy and is being reviewed in the antenatal clinic. A recent obstetric growth scan confirms breech presentation of a normally grown fetus with normal liquor volume. She has no other complicating medical or obstetric disorders. She is deciding between planned vaginal or elective caesarean (LSCS) modes of delivery. Which of the following is correct in relation to the counselling she will receive?",
+    "choices": [
+      "External cephalic version (ECV) may be offered and has around a 50 % success rate for conversion to cephalic presentation.",
+      "Footling breech presentation is considered favourable for vaginal breech delivery.",
+      "If opting for vaginal breech delivery, induction of labour at 38 weeks is recommended to avoid excessive fetal growth.",
+      "Intermittent fetal heart rate monitoring is recommended for spontaneous onset vaginal breech labour."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 9,
+    "question": "A 34-year-old primigravida with dichorionic twins, both fetuses in cephalic presentation, declines the offer of elective delivery at 37 weeks of gestation. You have explained to her that with uncomplicated dichorionic twin pregnancies, elective birth from 37 weeks 0 days does not appear to be associated with an increased risk of serious adverse outcomes and that continuing uncomplicated twin pregnancies beyond 38 weeks 0 days increases the risk of fetal death. What is the next step in her antenatal care?",
+    "choices": [
+      "Document her decision and allow pregnancy to continue for reassessment at term or when she sets into labour spontaneously, whichever is earlier.",
+      "Document her decision and call twice weekly for biophysical profile assessment.",
+      "Document her decision and call weekly for biophysical profi le assessment.",
+      "Document her decision and take informed consent for risk of adverse outcome."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 10,
+    "question": "A primigravida with twin pregnancy has booked for antenatal care at 16 weeks of gestation. Despite referral to higher centre, the chorionicity of the pregnancy could not be established by ultrasound. Fetal growth is within normal range and there are no obvious structural defects. What is the best option for further antenatal management in this case?",
+    "choices": [
+      "Amniocentesis to determine fetal karyotyping.",
+      "Chorionic villous sampling for fetal genotyping.",
+      "Empirically manage as dichorionic twins as this is commoner.",
+      "Empirically manage as monochorionic twins."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 11,
+    "question": "Routine folic acid supplementation is advised to all pregnant women ideally starting pre-pregnancy and continuing upto 12 weeks of gestation. The advantages established with this supplementation are all of the following except:",
+    "choices": [
+      "Reduced risk of cardiovascular defects",
+      "Reduced risk of childhood asthma",
+      "Reduced risk of limb defects",
+      "Reduced risk of leukemia and pediatric brain tumors"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 12,
+    "question": "Which of the following statements regarding physiological blood pressure changes in pregnancy is incorrect?",
+    "choices": [
+      "Blood pressure begins to decrease in early pregnancy and reaches a nadir at 18–20 weeks following which there is a steady rise till term.",
+      "Blood pressure taken in supine position during second and third trimesters of pregnancy is lower than that taken in sitting position",
+      "PhaseV (disappearance) rather than phase IV (muffling) of Korotkoff sounds should be taken as the diastolic reading.",
+      "Previously normotensive women may become transiently hypertensive following delivery."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 13,
+    "question": "A 34-year-old second gravida reports to the antenatal clinic with respiratory difficulty at 28 weeks of gestation. Apart from the mechanical effects of pregnancy on her respiratory organs, her symptoms are worsened by increased oxygen consumption in the fetoplacental unit and increased respiratory drive. The substance that increases in pregnancy leading to increased respiratory drive is:",
+    "choices": [
+      "Aldosterone",
+      "Caffeine",
+      "Progesterone",
+      "Thyroxine"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 14,
+    "question": "For gestational age assessment of the fetus in early pregnancy, it is recommended that crown rump length be used for dating. Once the CRL exceeds 84 mm, it is recommended that dating be based on measurement of:",
+    "choices": [
+      "Abdominal circumference",
+      "Femur length",
+      "Head circumference",
+      "Transcerebellar diameter"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 15,
+    "question": "You are explaining the plan of antenatal care to a woman who has come for a booking visit. Her last menstrual period was about 9 weeks back and she had a positive urine pregnancy test last week. You will offer her an ultrasound scan between 10 weeks and 13 weeks and 6 days for the following reason:",
+    "choices": [
+      "Detecting fetal cardiac defects",
+      "Detecting twin to twin transfusion in case she has MC twins",
+      "Reducing the incidence of induction of labour for prolonged pregnancy",
+      "Screening for fetal anemia"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 16,
+    "question": "Clinical signs suggestive of sepsis include all of the following except:",
+    "choices": [
+      "Hypothermia",
+      "Polyuria",
+      "Pyrexia",
+      "Tachycardia"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 17,
+    "question": "What is false about immunisation and antibiotic prophylaxis in women at risk of transfusion related infections?",
+    "choices": [
+      "All women who have undergone a splenectomy should take penicillin prophylaxis or equivalent.",
+      "All women who have undergone a splenectomy should be vaccinated for pneumococcus and Haemophilus influenzae type B if this has not been done before.",
+      "Hepatitis B vaccination is recommended in HBsAg -positive women who are transfused or may be transfused.",
+      "Hepatitis C status should be determined."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 18,
+    "question": "The following are known complications of obstetric cholestasis in pregnancy except:",
+    "choices": [
+      "Intrauterine deaths",
+      "Maternal pruritus",
+      "Meconium staining of liquor",
+      "Neonatal jaundice"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 19,
+    "question": "All of the following statements about the thyroid hormones in pregnancy are true except:",
+    "choices": [
+      "Free T3 level is unchanged.",
+      "Increased thyroid binding globulin in blood.",
+      "Total T3 and T4 levels are increased.",
+      "T3 crosses the placental barrier."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 20,
+    "question": "Of the following statements about hyperthyroidism in pregnancy, select the correct one:",
+    "choices": [
+      "During pregnancy, treatment should be aimed at keeping the thyroid hormones at the lower limit of normal range.",
+      "Fetal hypothyroidism is a common complication in these patients.",
+      "Pregnancy worsens thyroid status especially in the third trimester.",
+      "Propylthiouracil and carbimazole can be safely continued in pregnancy."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 21,
+    "question": "Hyperprolactinemia can be caused by all of the following except:",
+    "choices": [
+      "Dopamine antagonists",
+      "Hyperthyroidism",
+      "Pituitary adenomas",
+      "Polycystic ovarian disease"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 22,
+    "question": "The target range for blood sugars during labour for a pregnancy complicated by preexisting diabetes is:",
+    "choices": [
+      "2–4 mmol/L",
+      "4–6 mmol/L",
+      "6–8 mmol/L",
+      "8–10 mmol/L"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 23,
+    "question": "In GDM, maternal hyperglycaemia is independently and signifi cantly linked to all of the following adverse outcomes except:",
+    "choices": [
+      "Caesarean delivery",
+      "Early miscarriages",
+      "Fetal hyperinsulinism",
+      "Macrosomia"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 24,
+    "question": "A 38-year-old woman is 12 weeks pregnant with a twin pregnancy. This is her second pregnancy, with her previous pregnancy complicated by gestational hypertension. Her booking blood pressure, at 12 weeks, is 135/85 mmHg. Her BMI is 34 kg/m 2 . She smokes 10 cigarettes/day. Which one of the following is considered a signify cant (high) risk factor for the development of pre- eclampsia as her pregnancy progresses?",
+    "choices": [
+      "Age >35",
+      "BMI >30",
+      "Hypertensive disease during previous pregnancy",
+      "Multiple pregnancy"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 25,
+    "question": "A 30-year-old woman is 16 weeks pregnant in her third pregnancy. Her blood pressure is 155/105 mmHg; 4 weeks earlier, it was 150/100 mmHg. Her urinalysis shows + protein. Her spot urinary protein/creatinine ratio is 35 mg/mmol, and a 24-h urine collection result shows 0.35 g protein. Which one of the following is considered the most likely diagnosis?",
+    "choices": [
+      "Chronic hypertension",
+      "Chronic hypertension and superimposed pre- eclampsia",
+      "Gestational hypertension",
+      "Nephrotic syndrome"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 26,
+    "question": "Ms XY is a Para 1 who delivered 13 weeks ago. She was diagnosed to have GDM (diet controlled). Her recent fasting plasma glucose level is 6.3 mmol/L and her HbA1C is 6 %. What is her risk of developing type 2 diabetes?",
+    "choices": [
+      "Current type 2 diabetes",
+      "High risk of developing type 2 diabetes",
+      "Moderate risk of developing type 2 diabetes",
+      "NO risk of developing type 2 diabetes"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 27,
+    "question": "All of the following ultrasound features suggest that the twins are dichorionic except:",
+    "choices": [
+      "Bicornuate uterus",
+      "Discordant gender",
+      "The ‘lambda’ sign",
+      "Twin-peak sign"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 28,
+    "question": "Chorionicity in multifetal pregnancy is best assessed at what gestation:",
+    "choices": [
+      "5–6 weeks",
+      "11–14 weeks",
+      "16–18 weeks",
+      "20–24 weeks"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 29,
+    "question": "All of the following are ultrasound criteria to diagnose twin to twin transfusion syndrome except:",
+    "choices": [
+      "Discordant bladder appearances",
+      "Discordant fluid volumes— polyhydramnios / oligohydramnios",
+      "Discordant gender",
+      "Haemodynamic and cardiac compromise"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 30,
+    "question": "The commonest enzyme defi ciency seen in congenital adrenal hyperplasia",
+    "choices": [
+      "11 β-hydroxylase",
+      "17 α-hydroxylase",
+      "17 hydroxysteroid dehydrogenase",
+      "21 hydroxylase"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 31,
+    "question": "Incidence of chromosomal abnormalities in sporadic first trimester miscarriage is:",
+    "choices": [
+      "10–22 %",
+      "20–30 %",
+      "40–50 %",
+      "70 %"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 32,
+    "question": "Normally fetal blood volume is about:",
+    "choices": [
+      "30–50 ml/kg",
+      "50–60 ml/kg",
+      "80–100 ml/kg",
+      "100–150 ml/kg"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 33,
+    "question": "The following are statements relating to intrauterine fetal growth restriction (IUGR) and small for gestational age (SGA). Which ONE of the following statements is correct?",
+    "choices": [
+      "All fetuses that are IUGR are in less than the 10th percentile for estimated gestational age-specific fetal weight (EFW).",
+      "All fetuses that are SGA are IUGR.",
+      "Constitutionally small SGA fetuses are at increased risk of antepartum stillbirth.",
+      "SGA is defined as growth at the 10th or less percentile for weight of all fetuses at that gestational age."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 34,
+    "question": "Which of the following statements about intrauterine fetal deaths is false?",
+    "choices": [
+      "In most cases of stillbirths, the cause remains unexplained.",
+      "Over one-third of stillbirths are small-for-gestational-age fetuses.",
+      "Stillbirth is a common occurrence.",
+      "Whenever a late IUFD is suspected, urgent CTG should be arranged."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 35,
+    "question": "The ‘double bubble’ sign seen in fetal ultrasound is suggestive of:",
+    "choices": [
+      "Anorectal malformation",
+      "Arteriovenous fistula in the fetal liver",
+      "Colonic perforation",
+      "Duodenal atresia"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 36,
+    "question": "After delivery of the fetal head, shoulder dystocia was diagnosed and the McRoberts manoeuvre has not effected the delivery of the shoulders, which is the next method to be used:",
+    "choices": [
+      "Zavanelli manoeuvre",
+      "Delivery of posterior arm",
+      "Suprapubic pressure",
+      "Internal rotation manoeuvres"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 37,
+    "question": "Regarding shoulder dystocia, which of the following statements is true?",
+    "choices": [
+      "A large majority of infants with a birth weight of ≥4500 g do not develop shoulder dystocia.",
+      "All women with history of shoulder dystocia should be offered elective caesarean section in their subsequent pregnancies.",
+      "Conventional risk factors predicted about 96 % of shoulder dystocia that resulted in infant morbidity.",
+      "Induction of labour prevents shoulder dystocia in nondiabetic women with a suspected macrosomic fetus."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 38,
+    "question": "All of the following are known factors for anal sphincter injury during delivery except:",
+    "choices": [
+      "Expected fetal weight more than 4 kg",
+      "Induction of labour",
+      "Mediolateral episiotomy",
+      "Primiparous"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 39,
+    "question": "Which ONE of the following statements is characteristic of neonates diagnosed with HIE?",
+    "choices": [
+      "Apart from CNS, there is no evidence of any other organ dysfunction (e.g. kidney, lungs, liver, heart, intestines).",
+      "Five-minute Apgar score is >9.",
+      "Mild hypothermia via selective head cooling is neuroprotective in term neonates with HIE.",
+      "In most cases, there are no identifiable preconception, antenatal or intrapartum risk factors that increase susceptibility for HIE."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is most consistently associated with a uterine rupture?",
+    "choices": [
+      "Abnormal CTG",
+      "Acute onset scar tenderness",
+      "Hematuria",
+      "Severe abdominal pain, persisting in between contractions"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 41,
+    "question": "While explaining the rationale of this treatment to her, all of the following statements are correct except that antenatal corticosteroids:",
+    "choices": [
+      "Are known to be safe to the mother",
+      "Reduce the risk of intraventricular haemorrhage",
+      "Reduce the risk of maternal inflammation",
+      "Reduce the risk of neonatal death"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 42,
+    "question": "intraoperatively, there is difficulty is delivering the fetal head. Choose the single best option from the alternatives given below:",
+    "choices": [
+      "Ask for fundal pressure",
+      "Avoid any attempts of pushing from below",
+      "Breech extraction is an unacceptable option",
+      "Try gently to put your hand into the pelvis"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 43,
+    "question": "Which is the most likely cause for the excessive genital tract bleeding?",
+    "choices": [
+      "Excessive epidural analgesia",
+      "Retained placenta",
+      "Uterine atony",
+      "Uterine inversion"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 44,
+    "question": "Which one of the following correctly states the calorific energy requirements for a newborn infant born at term gestation?",
+    "choices": [
+      "15 Kcal/kg/day",
+      "30 Kcal/kg/day",
+      "60 Kcal/kg/day",
+      "120 Kcal/kg/day"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 45,
+    "question": "What is the next immediate step in her management?",
+    "choices": [
+      "Broad spectrum IV antibiotics",
+      "Blood cultures, HVS, MSU",
+      "EUA in theatre with removal of retained tissue",
+      "Imaging—pelvic USS"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 46,
+    "question": "What follow-up should she have postpartum?",
+    "choices": [
+      "75 g 2 h OGTT 6 weeks’ postpartum",
+      "75 g 1 h OGTT 6 weeks’ postpartum",
+      "Random plasma glucose at 6 weeks’ postpartum",
+      "Fasting plasma glucose at 12 weeks’ postpartum"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 47,
+    "question": "How much anti-D should she receive?",
+    "choices": [
+      "1500 IU",
+      "625IU",
+      "750IU",
+      "1000 IU"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 48,
+    "question": "On this basis, which SINGLE drug is most likely to be contraindicated for maternal use when breastfeeding?",
+    "choices": [
+      "Cabergoline",
+      "Low-molecular-weight heparin",
+      "Nifedipine",
+      "Progestogen-only pill"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 49,
+    "question": "Which one of the following ultrasound descriptions is diagnostic of miscarriage?",
+    "choices": [
+      "Mean GS diameter 25 mm, with no obvious yolk sac or fetal pole",
+      "Mean GS diameter 25 mm containing a fetal pole with CRL = 3 mm without evidence of FHR",
+      "Mean GS diameter 40 mm containing a fetal pole with CRL = 7 mm with evidence of FHR",
+      "No identifiable intrauterine or extrauterine GS with serum β hCG 200 IU/L"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 50,
+    "question": "Which one of the following factors would enable systematic methotrexate to be offered as a medical treatment option for the ectopic pregnancy?",
+    "choices": [
+      "Ectopic adnexal mass is 5 × 4 cm in size.",
+      "Initial serum hCG 1000 IU/L.",
+      "Presence of fetal heart beat in ectopic pregnancy.",
+      "Ultrasound evidence of haemoperitoneum >50 mL ."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 51,
+    "question": "Which of the following is not an example of gestational trophoblastic disease:",
+    "choices": [
+      "Chorioangioma",
+      "Choriocarcinoma",
+      "Complete mole",
+      "Placental site trophoblastic tumour"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 52,
+    "question": "Which of the following is a selective progesterone receptor modulator?",
+    "choices": [
+      "Dinoprostone",
+      "Misoprostol",
+      "Raloxifene",
+      "Ulipristal"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 53,
+    "question": "Medical management of fibroids is best indicated when:",
+    "choices": [
+      "Fibroid is less than 3 cm, not distorting the cavity and asymptomatic.",
+      "Fibroid is less than 3 cm, distorting the cavity and asymptomatic.",
+      "Fibroid is less than 3 cm, not distorting the cavity and causing heavy bleeding.",
+      "Fibroid is more than 3 cm, distorting the cavity and asymptomatic."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 54,
+    "question": "While operating on a patient in lithotomy position, the padding between the lateral fibular heads and the stirrup prevents injury to:",
+    "choices": [
+      "Common peroneal nerve",
+      "Lateral cutaneous nerve of the thigh",
+      "Pudendal nerve",
+      "Tibial nerve"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 55,
+    "question": "The commonest pathology identified at diagnostic laparoscopy in patients with chronic pelvic pain is:",
+    "choices": [
+      "Adhesions",
+      "Endometriosis",
+      "Fibroids",
+      "No pathology detected"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 56,
+    "question": "Which one of the following is correct in relation to polycystic ovarian syndrome, PCOS?",
+    "choices": [
+      "Increased risk of type II diabetes or gestational diabetes.",
+      "Increased risk of uterine polyps.",
+      "No induction of uterine bleeding following 5 days of oral progestogen therapy.",
+      "Resistant to clomiphene citrate ovulation induction in 50 % of cases."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 57,
+    "question": "Which of the following statements is true about endometrial polyps?",
+    "choices": [
+      "Endometrial polyps are common among women under the age of 20 years.",
+      "Endometrial polyps are usually symptomatic and cause heavy menstrual bleeding.",
+      "In both pre- and postmenopausal women, endometrial polyps lose their apoptotic regulation and overexpress oestrogen and progesterone receptors.",
+      "The malignant potential of endometrial polyps is high."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 58,
+    "question": "What structures are torn in a 3C tear?",
+    "choices": [
+      "Both EAS + IAS",
+      "EAS + IAS + anal mucosa",
+      "IAS only",
+      "Less than 50 % EAS"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 59,
+    "question": "Which suturing technique is most suited for the torn IAS (internal anal sphincter)?",
+    "choices": [
+      "Continuous locked 3–0 PDS",
+      "Continuous unlocked 3–0 PDS",
+      "End-to-end technique (interrupted)",
+      "Figure-of-8 stitches"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 60,
+    "question": "Which of the following is not appropriate regarding a routine gynaecological examination?",
+    "choices": [
+      "Presence of a chaperone is considered essential.",
+      "Should the patient decline the presence of a chaperone, the doctor should send the chaperon out of the room.",
+      "The consent for the examination should be recorded in the notes.",
+      "Verbal consent should be obtained in the presence of the chaperone."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 61,
+    "question": "From an outflow tract perspective, the only uterine anomaly that may cause a problem is:",
+    "choices": [
+      "Arcuate uterus",
+      "Bicornuate uterus",
+      "Complete septate uterus",
+      "Noncommunicating rudimentary horn"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 62,
+    "question": "Which of the following investigations will help you confirm the diagnosis of the 16-year-old girl described?",
+    "choices": [
+      "Estimation of serum FSH:LH",
+      "Karyotyping",
+      "MRI of the pelvis",
+      "Ultrasound of the pelvis"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 63,
+    "question": "Which of the following statements is appropriate for the 53-year-old woman described?",
+    "choices": [
+      "Low-dose local corticosteroids are the most effective treatment in this case.",
+      "Reassure her as she is already on HRT that these symptoms will also subside gradually.",
+      "Start treatment with vaginal oestrogen for relief of symptoms.",
+      "These symptoms cannot be due to oestrogen defi ciency as she is already on HRT."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 64,
+    "question": "Post testicular causes account for the following percentage of male infertility:",
+    "choices": [
+      "10 %",
+      "20 %",
+      "30 %",
+      "40 %"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 65,
+    "question": "Choose the first option of management for mild male factor infertility:",
+    "choices": [
+      "In vitro fertilisation",
+      "Six cycles of IUI along with clomiphene citrate",
+      "Six cycles of IUI alone",
+      "Three cycles of IUI with clomiphene citrate"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 66,
+    "question": "Which ONE of the following clinical scenarios is considered diagnostic of polycystic ovarian syndrome?",
+    "choices": [
+      "Infrequent periods, elevated testosterone",
+      "Infrequent periods, infertility, low day 21 serum progesterone",
+      "Infrequent periods, impaired glucose tolerance, obesity",
+      "Polycystic ovaries, obesity, low day 21 serum progesterone"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 67,
+    "question": "Which ONE of the following is an appropriate discussion issue for IVF?",
+    "choices": [
+      "Ovarian volume, ovarian blood flow and inhibin B usefully predict IVF success rate.",
+      "Preimplantation genetic diagnosis (PGD) of the embryo is required prior to its uterine transfer.",
+      "Progesterone administration is not required following embryo transfer.",
+      "Salpingectomy prior to IVF is beneficial in women with hydrosalpinges."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 68,
+    "question": "Which ONE of the following is likely to predict a favourable ovarian response to gonadotrophin stimulation in IVF?",
+    "choices": [
+      "Anti-Mullerian hormone ≤5.4 pmol/l",
+      "Follicle-stimulating hormone <4 IU/l",
+      "Increased ovarian blood flow on pelvic ultrasound",
+      "Oestradiol (E2) >500 pmol /L"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 69,
+    "question": "A 30-year-old woman has been trying to conceive for 3 years. She has infrequent menstrual cycles. Ultrasound confirms a normal uterus and polycystic ovaries. X-ray hsg has confirmed bilateral patent fallopian tubes. Her partner’s semen analysis is reported as within normal limits. Her BMI is 25 kg/m 2 . She has normal prolactin, FSH, oestradiol and testosterone. Of the options listed, which one of the following therapies is considered the most appropriate initial therapy?",
+    "choices": [
+      "Bromocriptine",
+      "Clomiphene citrate",
+      "Gonadotrophin",
+      "Laparoscopic ovarian drilling"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 70,
+    "question": "The WHO classification of ovulation disorders describes three classes. Which one of the following is characteristically associated with low FSH and low oestrogen (WHO Class I)?",
+    "choices": [
+      "Hyperprolactinaemia",
+      "Ovarian endometriosis",
+      "Polycystic ovarian syndrome",
+      "Weight loss (low BMI)"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 71,
+    "question": "The following are recognized risk factors for CIN and invasive carcinoma?",
+    "choices": [
+      "Early age at sexual intercourse",
+      "Infection by high risk oncogenic HPV",
+      "Male partner with multiple sexual partners",
+      "Lesbianism"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 72,
+    "question": "Which of the following best describes late preterm",
+    "choices": [
+      "Birth between 35 and <37 weeks gestational age",
+      "Birth between 34 and <37 weeks gestational age",
+      "Birth between 32 and <37 weeks gestational age",
+      "Birth between 32 and >37 weeks gestational age"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 73,
+    "question": "The first recognizable structure to appear in the gestational sac in early gestation?",
+    "choices": [
+      "Yolk sac",
+      "Embryo",
+      "Head circumference",
+      "Biparietal diameter"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 74,
+    "question": "Correct anatomical location of G-Spot",
+    "choices": [
+      "Anterior vaginal wall near the urethral orifice",
+      "Along the labial majora",
+      "Along labia minora",
+      "Near the posterior fourchete"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 75,
+    "question": "Schiller Duvas bodies are seen in which of the following tumours?",
+    "choices": [
+      "Yolk sac tumour",
+      "Brenner tumor",
+      "Granulosa cell tumor",
+      "Clear cell tumor"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 76,
+    "question": "Intestinal pneumocytosis is pathognomonic of which condition?",
+    "choices": [
+      "Necrotizing enterocolitis",
+      "Aspiration pneumonia",
+      "Necrotizing ulcerative colitis",
+      "Pulmonary hypoplasia"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 77,
+    "question": "Ultrasound scan Features of simple ovarian cyst",
+    "choices": [
+      "Thick wall, hypoechoeic",
+      "Thick wall, anechoic.",
+      "Thin wall, anechoic.",
+      "Thick wall"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 78,
+    "question": "Uses of Doppler USS in Obstetrics, except",
+    "choices": [
+      "Evaluation of utero-placental anomalies",
+      "Evaluation of feto -placental  anomalies",
+      "Dating of fetus",
+      "fetal anomaly"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 79,
+    "question": "Which test is used to demonstrate inner and outer myometrium.",
+    "choices": [
+      "CT.",
+      "MRI",
+      "Plain X-ray",
+      "HSG"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 80,
+    "question": "The Hallmark uss diagnosis of ectopic pregnancy",
+    "choices": [
+      "thickened endometrium",
+      "presence of identifiable  intrauterine pregnancy",
+      "extra ovarian complex mass",
+      "live extrauterine gestation"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 81,
+    "question": "Which of this is not a risk factor for Endometrial cancer",
+    "choices": [
+      "HIV",
+      "Infertility",
+      "HPV",
+      "Obesity"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 82,
+    "question": "A 70 year old woman presented with hx of tenismus, bloody and mucoid stool and constipation of 5 months. Which of.the following investigations is most appropriate for her",
+    "choices": [
+      "Colonoscopy",
+      "Stool culture and sentivity",
+      "Pelvic Ultrasound",
+      "Proptoscopy with biopsy"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 83,
+    "question": "Caudal anaesthesia, the syringe needle used pierces thru except",
+    "choices": [
+      "Skin",
+      "Fascia",
+      "Ligament",
+      "Dura mata"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 84,
+    "question": "Pure cut function of monopolar electrosurgery is used to effect",
+    "choices": [
+      "Dessication",
+      "Vaporization",
+      "Fluguration",
+      "Ablation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 85,
+    "question": "Commonest bowel injury is on",
+    "choices": [
+      "Small bowel",
+      "Large bowel",
+      "Appendix",
+      "During cesarian section"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 86,
+    "question": "The IV induction agent with intrinsic analgesic property",
+    "choices": [
+      "Etomidate",
+      "Ketamine",
+      "Propofol",
+      "Midazola"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 87,
+    "question": "Most appropriate contraceptive for a woman with 4 children and no particular sexual partner is",
+    "choices": [
+      "IUD",
+      "COC",
+      "Condom",
+      "Depo medroxy acetate"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 88,
+    "question": "Commonest age of FGM",
+    "choices": [
+      "10 to 15",
+      "5 to 10",
+      "20 to 25",
+      "1 to 5"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 89,
+    "question": "Multiple small mucinous cyst in the the area of squamous dysplasia with blockage of duct",
+    "choices": [
+      "Nabothian cyst",
+      "Ovarian cyst",
+      "Follicular cyst",
+      "Cervical Ca"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 90,
+    "question": "Concerning the passage of NG tube in a newborn, the length can be determined by measuring:",
+    "choices": [
+      "From the tip of the nose to the posterior aspect of the ear to the umbilicus",
+      "From the tip of the nose to the posterior aspect of the ear to the Xiphisternum",
+      "From the tip of the nose to the posterior aspect of the ear to midway between the xiphisternum and umbilicus",
+      "From the ear to the xiphisternum",
+      "From the tip of the nose to the umbilicus"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 91,
+    "question": "A Role of histopathologist in the clinical management of patients  EXCEPT",
+    "choices": [
+      "Autopsy",
+      "Cytology",
+      "Embalment",
+      "Histology"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 92,
+    "question": "The maximum dose of radiation in pregnancy",
+    "choices": [
+      "120 mGy",
+      "150 mGy",
+      "200mGy",
+      "50 mGy"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 93,
+    "question": "Precocious puberty in a child with ovarian tumor",
+    "choices": [
+      "Brenner tumor",
+      "Granulosa cell",
+      "Sertoli leydig",
+      "Choriocarcinoma"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 94,
+    "question": "Fixative during for Pap smear",
+    "choices": [
+      "Formalin",
+      "Alcohol",
+      "Potassium permanganate",
+      "Nitrates"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 95,
+    "question": "Late deceleration indicates which of the following",
+    "choices": [
+      "Cord compression",
+      "Head compression",
+      "Hypoxaemia",
+      "Metabolic Acidosis"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 96,
+    "question": "What differentiate cancer cells from normal cells",
+    "choices": [
+      "Resistant to natural growth inhibitors",
+      "Undergoes programmed cell death",
+      "Has limited cell replication",
+      "Has controlled cell division"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 97,
+    "question": "Not needed for diagnostic Hysteroscopy",
+    "choices": [
+      "A medical grade monitor",
+      "Electrosurgical generator",
+      "Camera unit",
+      "Hysteroscope"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 98,
+    "question": "Symptoms OAB include",
+    "choices": [
+      "dysuria",
+      "urinary incontinence",
+      "Urgency",
+      "stress incontinence"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 99,
+    "question": "What is the main cause of urinary incontinence after fistula repair",
+    "choices": [
+      "Stress incontinence",
+      "Urge incontinence",
+      "Overflow incontinence",
+      "Mixed incontinence"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 100,
+    "question": "AFP is elevated in the following conditions except?",
+    "choices": [
+      "Sacrococcygeal teratoma",
+      "Neural tube defect",
+      "Threatened abortion",
+      "Transverse cervical septum."
+    ],
+    "answerIndex": 3
+  }
+]

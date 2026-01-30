@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>OAUTHC Mock Exam - Login</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="welcome-card">
+    <h1>OAUTHC ILE-IFE</h1>
+  <h2 style="text-align:center;">Department of Obstetrics and Gynaecology</h2>
+    <!--Tab to edit-->
+  </tag>
+    <h3>Mock Single Best Answer (Part 1 Examination)</h3>
+    <div class="instruction-box">
+      <h4>Exam Instructions:</h4>
+      <ul>
+        <li><strong>Time Allowed:</strong> 1 Hour (60 Minutes)</li>
+        <li>Once started, the timer cannot be paused.</li>
+      </ul>
+    </div>
+    <div class="form-group">
+      <div class="input-field">
+        <label for="candidateName">Full Name</label>
+        <input type="text" id="candidateName" placeholder="Enter your full name">
+      </div>
+      <div class="input-field">
+        <label for="examNumber">Exam Number</label>
+        <input type="text" id="examNumber" placeholder="e.g. 001">
+      </div>
+    </div>
+    <button class="start-btn" onclick="proceed()">Begin Examination</button>
+  </div>
+
+  <script>
+    function proceed() {
+      const name = document.getElementById('candidateName').value.trim();
+      const num = document.getElementById('examNumber').value.trim();
+      if (!name || !num) { alert("Please fill in all fields."); return; }
+      localStorage.setItem('candidateName', name);
+      localStorage.setItem('examNumber', num);
+      window.location.href = 'exam.html';
+    }
+  </script>
+</body>
+</html>

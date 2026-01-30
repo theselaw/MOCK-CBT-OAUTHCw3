@@ -1,0 +1,121 @@
+/* welcome.css / styles.css */
+
+:root {
+  --bg: #f6f7f9;
+  --card: #ffffff;
+  --accent: #1e3a8a;
+  --muted: #6b7280;
+}
+
+body {
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  margin: 0;
+  background-color: var(--bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.welcome-card {
+  max-width: 600px;
+  width: 90%;
+  background: var(--card);
+  padding: 32px;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+  border-top: 6px solid var(--accent);
+}
+
+h1 { 
+  color: var(--accent); 
+  text-align: center; 
+  margin: 0 0 8px 0; 
+  font-size: 24px; 
+}
+
+h3 { 
+  text-align: center; 
+  color: var(--muted); 
+  margin-bottom: 24px; 
+  font-weight: 500; 
+  font-size: 16px;
+}
+
+.instruction-box {
+  background: #f0f4f8;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+}
+
+.instruction-box h4 {
+  margin: 0 0 10px 0;
+  color: #1e293b;
+}
+
+.instruction-box ul {
+  padding-left: 20px;
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.8;
+  color: #334155;
+}
+
+/* STACKED FORM LAYOUT */
+.form-group {
+  display: flex;
+  flex-direction: column; /* Stacks the fields vertically */
+  gap: 16px;              /* Spacing between the Name and Exam Number blocks */
+  margin-bottom: 24px;
+}
+
+.input-field {
+  display: flex;
+  flex-direction: column; /* Stacks Label above Input */
+  gap: 8px;
+  width: 100%;           /* Ensures fields take full width */
+}
+
+/* Remove effects of <br/> tags to maintain clean spacing */
+.form-group br {
+  display: none;
+}
+
+label { 
+  font-weight: 700; 
+  font-size: 13px; 
+  color: #374151; 
+}
+
+input {
+  padding: 12px;
+  border: 2px solid #e5e7eb;
+  border-radius: 8px;
+  font-size: 16px;
+  width: 100%;
+  box-sizing: border-box; /* Ensures padding doesn't affect width */
+  transition: border-color 0.2s;
+}
+
+input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.start-btn {
+  width: 100%;
+  padding: 16px;
+  background: var(--accent);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.start-btn:hover {
+  background: #172554;
+}
