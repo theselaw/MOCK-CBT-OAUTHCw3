@@ -254,7 +254,7 @@
   },
   {
     "id": 24,
-    "question": "A 38-year-old woman is 12 weeks pregnant with a twin pregnancy. This is her second pregnancy, with her previous pregnancy complicated by gestational hypertension. Her booking blood pressure, at 12 weeks, is 135/85 mmHg. Her BMI is 34 kg/m 2 . She smokes 10 cigarettes/day. Which one of the following is considered a signify cant (high) risk factor for the development of pre- eclampsia as her pregnancy progresses?",
+    "question": "A 38-year-old woman is 12 weeks pregnant with a twin pregnancy. This is her second pregnancy, with her previous pregnancy complicated by gestational hypertension. Her booking blood pressure, at 12 weeks, is 135/85 mmHg. Her BMI is 34 kg/m 2 . She smokes 10 cigarettes/day. Which one of the following is considered a significant (high) risk factor for the development of pre- eclampsia as her pregnancy progresses?",
     "choices": [
       "Age >35",
       "BMI >30",
@@ -276,7 +276,7 @@
   },
   {
     "id": 26,
-    "question": "Ms XY is a Para 1 who delivered 13 weeks ago. She was diagnosed to have GDM (diet controlled). Her recent fasting plasma glucose level is 6.3 mmol/L and her HbA1C is 6 %. What is her risk of developing type 2 diabetes?",
+    "question": "Ms XY is a Para 1 who delivered 13 weeks ago. She was diagnosed to have GDM (diet controlled). Her recent fasting plasma glucose level is 6.3 mmol/L and her HbA1C is 6%. What is her risk of developing type 2 diabetes?",
     "choices": [
       "Current type 2 diabetes",
       "High risk of developing type 2 diabetes",
@@ -333,10 +333,10 @@
     "id": 31,
     "question": "Incidence of chromosomal abnormalities in sporadic first trimester miscarriage is:",
     "choices": [
-      "10–22 %",
-      "20–30 %",
-      "40–50 %",
-      "70 %"
+      "10–22%",
+      "20–30%",
+      "40–50%",
+      "70%"
     ],
     "answerIndex": 2
   },
@@ -463,7 +463,7 @@
   },
   {
     "id": 43,
-    "question": "Which is the most likely cause for the excessive genital tract bleeding?",
+    "question": "A 40-year-old woman, who has had three previous vaginal deliveries, experiences brisk vaginal bleeding immediately following vaginal delivery of 36-week gestation twins (birth weights 2.0 and 1.9 kg). An episiotomy was not required. The placenta was delivered without complication. She received an epidural top-up 30 min before delivery. The EBL is 700 ml. Which is the most likely cause for the excessive genital tract bleeding?",
     "choices": [
       "Excessive epidural analgesia",
       "Retained placenta",
@@ -485,7 +485,7 @@
   },
   {
     "id": 45,
-    "question": "What is the next immediate step in her management?",
+    "question": "Ms. XY is brought to the A + E department, unwell. She is a para 1, post-SVD 3 days ago with ragged membranes noted at delivery. Her observations include pulse 128 bpm, BP 80 systolic, RR 24 breaths/min and temp 39° C and she feels cold and clammy. She reports heavy offensive lochia.She has been fluid resuscitated now and commenced on oxygen by mask.What is the next immediate step in her management?",
     "choices": [
       "Broad spectrum IV antibiotics",
       "Blood cultures, HVS, MSU",
@@ -496,7 +496,7 @@
   },
   {
     "id": 46,
-    "question": "What follow-up should she have postpartum?",
+    "question": "Ms. XY is a para 1 who delivered 1 week ago. She was diagnosed to have GDM (diet controlled), and her plasma glucose levels have now returned to normal.What follow-up should she have postpartum?",
     "choices": [
       "75 g 2 h OGTT 6 weeks’ postpartum",
       "75 g 1 h OGTT 6 weeks’ postpartum",
@@ -507,7 +507,7 @@
   },
   {
     "id": 47,
-    "question": "How much anti-D should she receive?",
+    "question": "HMs. XY is now a para 1, with A negative blood group. She has just delivered in the midwifery-led unit and has had to theatre for a manual removal of a retained placenta.Her baby at 0+ve. Kleihauer test suggests a fetomaternal haemorrhage of 6 mLs. How much anti-D should she receive?",
     "choices": [
       "1500 IU",
       "625IU",
@@ -518,7 +518,7 @@
   },
   {
     "id": 48,
-    "question": "On this basis, which SINGLE drug is most likely to be contraindicated for maternal use when breastfeeding?",
+    "question": "Drugs are prescribed in pregnancy upon the assumption that their positive effect on health outweighs the probability and severity of any harm to the mother and fetus. On this basis, which SINGLE drug is most likely to be  contraindicated for maternal use when breastfeeding?",
     "choices": [
       "Cabergoline",
       "Low-molecular-weight heparin",
@@ -529,7 +529,7 @@
   },
   {
     "id": 49,
-    "question": "Which one of the following ultrasound descriptions is diagnostic of miscarriage?",
+    "question": "Drugs are prescribed in pregnancy upon the assumption that their positive effect on health outweighs the probability and severity of any harm to the mother and fetus. On this basis, which SINGLE drug is most likely to be  contraindicated for maternal use when breastfeeding?",
     "choices": [
       "Mean GS diameter 25 mm, with no obvious yolk sac or fetal pole",
       "Mean GS diameter 25 mm containing a fetal pole with CRL = 3 mm without evidence of FHR",
@@ -540,7 +540,7 @@
   },
   {
     "id": 50,
-    "question": "Which one of the following factors would enable systematic methotrexate to be offered as a medical treatment option for the ectopic pregnancy?",
+    "question": " A 29-year-old, who is at 6 weeks’ gestation, is diagnosed to have a right tubal ectopic pregnancy by transvaginal pelvic ultrasound. Which one of the following factors would enable systematic methotrexate to be offered as a medical treatment option for the ectopic pregnancy?",
     "choices": [
       "Ectopic adnexal mass is 5 × 4 cm in size.",
       "Initial serum hCG 1000 IU/L.",
@@ -628,7 +628,9 @@
   },
   {
     "id": 58,
-    "question": "What structures are torn in a 3C tear?",
+    "question": "Ms. XY is in theatre for repair of a 3C tear. She has been 
+given spinal anaesthetic and antibiotics. What structures are torn 
+in a 3C tear?",
     "choices": [
       "Both EAS + IAS",
       "EAS + IAS + anal mucosa",
@@ -639,7 +641,7 @@
   },
   {
     "id": 59,
-    "question": "Which suturing technique is most suited for the torn IAS (internal anal sphincter)?",
+    "question": "Ms. XY is in theatre for repair of a 3C tear. She has been given spinal anaesthetic and antibiotics. Which suturing technique is most suited for the torn IAS (internal anal sphincter)?",
     "choices": [
       "Continuous locked 3–0 PDS",
       "Continuous unlocked 3–0 PDS",
@@ -650,7 +652,7 @@
   },
   {
     "id": 60,
-    "question": "Which of the following is not appropriate regarding a routine gynaecological examination?",
+    "question": "Some procedures are recommended while conducting a routine gynaecological examination. Which of the following is not appropriate?",
     "choices": [
       "Presence of a chaperone is considered essential.",
       "Should the patient decline the presence of a chaperone, the doctor should send the chaperon out of the room.",
@@ -672,7 +674,7 @@
   },
   {
     "id": 62,
-    "question": "Which of the following investigations will help you confirm the diagnosis of the 16-year-old girl described?",
+    "question": "A worried mother gets her 16-year-old girl to her GP. She is concerned that her daughter has not as yet commenced her periods. On examination there is poor development of secondary sexual characters, cubitus valgus, evidence of webbed neck and short stature. Which of the following investigations will help you confirm the diagnosis?",
     "choices": [
       "Estimation of serum FSH:LH",
       "Karyotyping",
@@ -683,7 +685,7 @@
   },
   {
     "id": 63,
-    "question": "Which of the following statements is appropriate for the 53-year-old woman described?",
+    "question": "A 53-year-old woman who is amenorrheic for the past 1 year complains of vaginal dryness, superficial dyspareunia and urinary urgency. She has been treated for urinary infection 2 months back, and there is no active urinary infection now although symptoms persist. She has been on HRT for the past 6 months due to severe palpitations, hot flushes and night sweats, and she is relieved of those symptoms. Which of the following statements is appropriate for her?",
     "choices": [
       "Low-dose local corticosteroids are the most effective treatment in this case.",
       "Reassure her as she is already on HRT that these symptoms will also subside gradually.",
@@ -727,7 +729,7 @@
   },
   {
     "id": 67,
-    "question": "Which ONE of the following is an appropriate discussion issue for IVF?",
+    "question": "A 40-year-old woman, who has been trying to conceive for 3 years, is offered IVF (in vitro fertilisation) as a treatment option by her fertility specialist. Which ONE of the following is an appropriate discussion issue ?",
     "choices": [
       "Ovarian volume, ovarian blood flow and inhibin B usefully predict IVF success rate.",
       "Preimplantation genetic diagnosis (PGD) of the embryo is required prior to its uterine transfer.",
@@ -914,7 +916,7 @@
   },
   {
     "id": 84,
-    "question": "Pure cut function of monopolar electrosurgery is used to effect",
+    "question": " \\"Pure cut\\" function of monopolar electrosurgery is used to effect",
     "choices": [
       "Dessication",
       "Vaporization",
@@ -947,7 +949,7 @@
   },
   {
     "id": 87,
-    "question": "Most appropriate contraceptive for a woman with 4 children and no particular sexual partner is",
+    "question": "A woman has 4 children, with no particular sexual partner and wants contraceptive. Most appropriate for her is",
     "choices": [
       "IUD",
       "COC",
