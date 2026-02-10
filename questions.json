@@ -523,19 +523,17 @@
       "Cabergoline",
       "Low-molecular-weight heparin",
       "Nifedipine",
-      "Progestogen-only pill"
-    ],
+      "Progestogen-only pill"],
     "answerIndex": 0
   },
   {
     "id": 49,
-    "question": "Drugs are prescribed in pregnancy upon the assumption that their positive effect on health outweighs the probability and severity of any harm to the mother and fetus. On this basis, which SINGLE drug is most likely to be  contraindicated for maternal use when breastfeeding?",
+    "question": "Which one of the following ultrasound descriptions is diagnostic of miscarriage (GS, gestational sac; CRL, crown-rump length; FHR, fetal heart rate)?",
     "choices": [
       "Mean GS diameter 25 mm, with no obvious yolk sac or fetal pole",
       "Mean GS diameter 25 mm containing a fetal pole with CRL = 3 mm without evidence of FHR",
       "Mean GS diameter 40 mm containing a fetal pole with CRL = 7 mm with evidence of FHR",
-      "No identifiable intrauterine or extrauterine GS with serum β hCG 200 IU/L"
-    ],
+      "No identifiable intrauterine or extrauterine GS with serum β hCG 200 IU/L"],
     "answerIndex": 0
   },
   {
@@ -628,9 +626,7 @@
   },
   {
     "id": 58,
-    "question": "Ms. XY is in theatre for repair of a 3C tear. She has been 
-given spinal anaesthetic and antibiotics. What structures are torn 
-in a 3C tear?",
+    "question": "Ms. XY is in theatre for repair of a 3C tear. She has been given spinal anaesthetic and antibiotics. What structures are torn in a 3C tear?",
     "choices": [
       "Both EAS + IAS",
       "EAS + IAS + anal mucosa",
